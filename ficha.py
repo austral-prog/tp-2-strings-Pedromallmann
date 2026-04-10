@@ -54,4 +54,4 @@ def ficha():
     print(f"Promedio: {(notas1 + notas2 + notas3)/3}")
     print(f"Promedio entero: {(notas1 + notas2 + notas3)//3}")
     print("=" * 24)
-
+ficha()

@@ -25,7 +25,7 @@ Linea 3"""
     print(f"Reverso: {frase[5::-1]}")
     print(f"Formato: {nombre.strip()} sabe {frase[0:6]}")
     print(multilinea.strip())
-
+string_methods()
 
 
 

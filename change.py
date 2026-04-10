@@ -19,5 +19,5 @@ def change():
     print(vuelto_pesos)
     print("Centavos:")
     print(vuelto_centavos)
-
+change()
 
