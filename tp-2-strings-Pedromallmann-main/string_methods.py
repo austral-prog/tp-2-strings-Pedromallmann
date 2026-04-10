@@ -26,7 +26,6 @@ Linea 3"""
     print(f"Formato: {nombre.strip()} sabe {frase[0:6]}")
     print(multilinea.strip())
 
-string_methods()
 
 
 
